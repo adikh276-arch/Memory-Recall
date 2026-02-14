@@ -30,10 +30,6 @@ const InstructionsScreen = ({ onNext }: Props) => {
             You will read a short passage on the next screen. Please read it
             carefully and try to remember as many details as you can.
           </p>
-          <p>
-            You won't be able to see the passage again while answering the
-            questions — this is intentional and helps assess recall.
-          </p>
         </div>
       </div>
 
